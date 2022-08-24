@@ -3,10 +3,10 @@
 
 
 /**
- * binary tree node - creates a binary tree node
+ * binary_tree_node - creates a binary tree node
  * @parent: parent of the node to create
  * @value: the value to put in the new node
- * 
+ * Description: it must return a pointer to the new node or NULL on failure
  * Return: pointer to the new node
  */
 
